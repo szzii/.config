@@ -1,3 +1,18 @@
 [submodule "karabiner"]
 	path = karabiner
 	url = https://github.com/szzii/karabiner.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/szzii/nvim.git
+[submodule "lazygit"]
+	path = lazygit
+	url = https://github.com/szzii/lazygit.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/szzii/zsh.git
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/szzii/tmux.git
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/szzii/ranger.git
